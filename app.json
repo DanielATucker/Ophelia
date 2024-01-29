@@ -2,7 +2,7 @@
   "configVersion": "v2",
   "app": {
     "appId": 26068,
-    "appName": "Empty",
+    "appName": "Ophelia",
     "appType": "app",
     "version": {
       "code": 1,
@@ -42,19 +42,19 @@
       "platforms": [
         {
           "name": "Zurich",
-          "deviceSource": 224
+          "deviceSource": 418
         },
         {
           "name": "ZurichW",
-          "deviceSource": 225
+          "deviceSource": 419
         }
       ],
-      "designWidth": 390
+      "designWidth": 454
     }
   },
   "i18n": {
     "en-US": {
-      "appName": "Empty"
+      "appName": "Ophelia"
     }
   },
   "defaultLanguage": "en-US"
